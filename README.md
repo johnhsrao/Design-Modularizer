@@ -1,4 +1,4 @@
-# designmodularizer
+# Design Modularizer
 This is a working prototype of an modular design optimization tool in Grasshopper developed as a part of Caitlin Mueller's Structural Design Optimization class. I'm currently developing a new version that allows more user interactionn as my undegraduate thesis at MIT. 
 
 
